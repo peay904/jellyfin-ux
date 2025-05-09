@@ -1,0 +1,16 @@
+{
+  "name": "@peay904/jellyfin-ux",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modified version of Jellyfin UX components",
+  "main": "branding/web/index.js",
+  "exports": {
+    ".": "./branding/web",
+    "./*": "./branding/web/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peay904/jellyfin-ux.git"
+  },
+  "license": "CC-BY-SA-4.0"
+}
