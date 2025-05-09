@@ -5,8 +5,8 @@
   "license": "CC-BY-SA-4.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jellyfin/jellyfin-ux.git",
+    "url": "git+https://github.com/peay904/jellyfin-ux.git",
     "directory": "branding/web"
   },
-  "homepage": "https://github.com/jellyfin/jellyfin-ux/tree/master/branding/web#readme"
+  "homepage": "https://github.com/peay904/jellyfin-ux/tree/master/branding/web#readme"
 }
